@@ -114,7 +114,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 * Link para o vídeo: https://drive.google.com/drive/folders/1co3KrYqTRvGP4W58OA9wN02qRGGmCRIf?usp=sharing
 
 <h4 align="center"> 
-	🚧  Projeto 🚀 Em construção...  🚧
+             🚀  Projeto Finalizado 🚀
 </h4>
 
 
